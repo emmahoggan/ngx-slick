@@ -1,5 +1,7 @@
 # ngx-slick
 
+This was forked from devmark/ngx-slick - removed jQuery(this.el.nativeElement)[0].innerHTML = ''; in the initSlick function so that slides aren't prematurely wiped out.
+
 Support angular 6+, Slick 1.8.1
 
 [Example](https://embed.plnkr.co/fblxzfPneL66950A4VDM/)
