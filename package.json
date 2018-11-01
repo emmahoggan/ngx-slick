@@ -76,5 +76,6 @@
   "dependencies": {
     "@types/slick-carousel": "^1.6.32",
     "slick-carousel": "^1.8.1"
-  }
+  },
+  "files": [ "dist" ]
 }
